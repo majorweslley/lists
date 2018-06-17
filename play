@@ -1,0 +1,543 @@
+#EXTM3U
+#EXTINF:-1,FOX PREMIUM 1
+http://54.39.53.45:8880/live/jeane/jeane/8103.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://54.39.53.45:8880/live/jeane/jeane/8215.ts
+#EXTINF:-1,FOX PREMIUM 1 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1491.ts
+#EXTINF:-1,FOX PREMIUM 2
+http://54.39.53.45:8880/live/jeane/jeane/8102.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://54.39.53.45:8880/live/jeane/jeane/8214.ts
+#EXTINF:-1,FOX SPORTS
+http://54.39.53.45:8880/live/jeane/jeane/8101.ts
+#EXTINF:-1,FOX SPORTS HD
+http://54.39.53.45:8880/live/jeane/jeane/8213.ts
+#EXTINF:-1,FOX SPORTS HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1570.ts
+#EXTINF:-1,FOX SPORTS FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4467.ts
+#EXTINF:-1,FOX SPORTS 2
+http://54.39.53.45:8880/live/jeane/jeane/8100.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://54.39.53.45:8880/live/jeane/jeane/8099.ts
+#EXTINF:-1,FOX SPORTS 2 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/6537.ts
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4466.ts
+#EXTINF:-1,FUTURA
+http://54.39.53.45:8880/live/jeane/jeane/8212.ts
+#EXTINF:-1,FUTURA HD
+http://54.39.53.45:8880/live/jeane/jeane/8098.ts
+#EXTINF:-1,FX
+http://54.39.53.45:8880/live/jeane/jeane/8097.ts
+#EXTINF:-1,FX HD
+http://54.39.53.45:8880/live/jeane/jeane/8211.ts
+#EXTINF:-1,GLOBO DF SD
+http://54.39.53.45:8880/live/jeane/jeane/7890.ts
+#EXTINF:-1,GLOBO BRASILIA
+http://54.39.53.45:8880/live/jeane/jeane/8096.ts
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://54.39.53.45:8880/live/jeane/jeane/8095.ts
+#EXTINF:-1,GLOBO EPTV HD CAMPINAS
+http://54.39.53.45:8880/live/jeane/jeane/8094.ts
+#EXTINF:-1,GLOBO EPTV HD RIBEIRÃO PRETO
+http://54.39.53.45:8880/live/jeane/jeane/8093.ts
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://54.39.53.45:8880/live/jeane/jeane/8092.ts
+#EXTINF:-1,GLOBO MINAS
+http://54.39.53.45:8880/live/jeane/jeane/8091.ts
+#EXTINF:-1,GLOBO MINAS HD
+http://54.39.53.45:8880/live/jeane/jeane/8210.ts
+#EXTINF:-1,GLOBO MG FULLHD
+http://54.39.53.45:8880/live/jeane/jeane/7889.ts
+#EXTINF:-1,GLOBO NEWS
+http://54.39.53.45:8880/live/jeane/jeane/8090.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://54.39.53.45:8880/live/jeane/jeane/8209.ts
+#EXTINF:-1,GLOBO NEWS H265
+http://54.39.53.45:8880/live/jeane/jeane/4424.ts
+#EXTINF:-1,GLOBO NEWS HD H265
+http://54.39.53.45:8880/live/jeane/jeane/7887.ts
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS
+http://54.39.53.45:8880/live/jeane/jeane/8089.ts
+#EXTINF:-1,GLOBO NSC TV HD FLORIANOPOLIS
+http://54.39.53.45:8880/live/jeane/jeane/8088.ts
+#EXTINF:-1,GLOBO RBS HD TV PORTO ALEGRE
+http://54.39.53.45:8880/live/jeane/jeane/8086.ts
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
+http://54.39.53.45:8880/live/jeane/jeane/8087.ts
+#EXTINF:-1,GLOBO PE H265
+http://54.39.53.45:8880/live/jeane/jeane/7886.ts
+#EXTINF:-1,GLOBO RJ
+http://54.39.53.45:8880/live/jeane/jeane/8085.ts
+#EXTINF:-1,GLOBO RJ HD
+http://54.39.53.45:8880/live/jeane/jeane/8206.ts
+#EXTINF:-1,GLOBO RJ HD H265
+http://54.39.53.45:8880/live/jeane/jeane/7884.ts
+#EXTINF:-1,GLOBO RJ HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1490.ts
+#EXTINF:-1,GLOBO RPC CURITIBA
+http://54.39.53.45:8880/live/jeane/jeane/8084.ts
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://54.39.53.45:8880/live/jeane/jeane/8083.ts
+#EXTINF:-1,GLOBO NORDESTE
+http://54.39.53.45:8880/live/jeane/jeane/8208.ts
+#EXTINF:-1,GLOBO NORDESTE HD
+http://54.39.53.45:8880/live/jeane/jeane/8207.ts
+#EXTINF:-1,GLOBO SP
+http://54.39.53.45:8880/live/jeane/jeane/8082.ts
+#EXTINF:-1,GLOBO SP HD
+http://54.39.53.45:8880/live/jeane/jeane/8205.ts
+#EXTINF:-1,GLOBO SP HD H265
+http://54.39.53.45:8880/live/jeane/jeane/7883.ts
+#EXTINF:-1,GLOBO SP HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1534.ts
+#EXTINF:-1,GLOBO TV ANHANGUERA
+http://54.39.53.45:8880/live/jeane/jeane/8081.ts
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://54.39.53.45:8880/live/jeane/jeane/8080.ts
+#EXTINF:-1,GLOBO TV BAHIA
+http://54.39.53.45:8880/live/jeane/jeane/8079.ts
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://54.39.53.45:8880/live/jeane/jeane/8078.ts
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://54.39.53.45:8880/live/jeane/jeane/8077.ts
+#EXTINF:-1,GLOBO TV TEM HD S. J. DO RIO PRETO
+http://54.39.53.45:8880/live/jeane/jeane/8076.ts
+#EXTINF:-1,GLOBO TV TEM S. J. DO RIO PRETO
+http://54.39.53.45:8880/live/jeane/jeane/8075.ts
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://54.39.53.45:8880/live/jeane/jeane/8074.ts
+#EXTINF:-1,GLOOB
+http://54.39.53.45:8880/live/jeane/jeane/8073.ts
+#EXTINF:-1,GLOOB HD
+http://54.39.53.45:8880/live/jeane/jeane/8072.ts
+#EXTINF:-1,GLOOB HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1557.ts
+#EXTINF:-1,GLOOBINHO HD
+http://54.39.53.45:8880/live/jeane/jeane/8071.ts
+#EXTINF:-1,GLOOBINHO
+http://54.39.53.45:8880/live/jeane/jeane/8070.ts
+#EXTINF:-1,GNT
+http://54.39.53.45:8880/live/jeane/jeane/8069.ts
+#EXTINF:-1,GNT SD
+http://54.39.53.45:8880/live/jeane/jeane/51.ts
+#EXTINF:-1,GNT HD
+http://54.39.53.45:8880/live/jeane/jeane/8204.ts
+#EXTINF:-1,GNT HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1544.ts
+#EXTINF:-1,GLOBOSAT
+http://54.39.53.45:8880/live/jeane/jeane/8057.ts
+#EXTINF:-1,GLOBOSAT HD
+http://54.39.53.45:8880/live/jeane/jeane/8056.ts
+#EXTINF:-1,GLOBOSAT HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2349.ts
+#EXTINF:-1,GOSPEL MOVIES TELEVISION
+http://54.39.53.45:8880/live/jeane/jeane/3135.ts
+#EXTINF:-1,GOSPEL CARTOON
+http://54.39.53.45:8880/live/jeane/jeane/2662.ts
+#EXTINF:-1,CJC TV
+http://54.39.53.45:8880/live/jeane/jeane/4658.ts
+#EXTINF:-1,HBO
+http://54.39.53.45:8880/live/jeane/jeane/8067.ts
+#EXTINF:-1,HBO HD
+http://54.39.53.45:8880/live/jeane/jeane/8200.ts
+#EXTINF:-1,HBO HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2356.ts
+#EXTINF:-1,HBO 2
+http://54.39.53.45:8880/live/jeane/jeane/8066.ts
+#EXTINF:-1,HBO 2 HD
+http://54.39.53.45:8880/live/jeane/jeane/8202.ts
+#EXTINF:-1,HBO 2 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1525.ts
+#EXTINF:-1,HBO FAMILY
+http://54.39.53.45:8880/live/jeane/jeane/8065.ts
+#EXTINF:-1,HBO FAMILY HD
+http://54.39.53.45:8880/live/jeane/jeane/8201.ts
+#EXTINF:-1,HBO PLUS
+http://54.39.53.45:8880/live/jeane/jeane/8064.ts
+#EXTINF:-1,HBO PLUS HD
+http://54.39.53.45:8880/live/jeane/jeane/8199.ts
+#EXTINF:-1,HBO PLUS HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2357.ts
+#EXTINF:-1,HBO PLUS E
+http://54.39.53.45:8880/live/jeane/jeane/8063.ts
+#EXTINF:-1,HBO SIGNATURE
+http://54.39.53.45:8880/live/jeane/jeane/8062.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://54.39.53.45:8880/live/jeane/jeane/8198.ts
+#EXTINF:-1,HISTORY
+http://54.39.53.45:8880/live/jeane/jeane/8061.ts
+#EXTINF:-1,HISTORY HD
+http://54.39.53.45:8880/live/jeane/jeane/8060.ts
+#EXTINF:-1,HISTORY HD H265 ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/10048.ts
+#EXTINF:-1,H2
+http://54.39.53.45:8880/live/jeane/jeane/8068.ts
+#EXTINF:-1,H2 HD
+http://54.39.53.45:8880/live/jeane/jeane/8203.ts
+#EXTINF:-1,H2 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1499.ts
+#EXTINF:-1,LIFETIME
+http://54.39.53.45:8880/live/jeane/jeane/8058.ts
+#EXTINF:-1,LIFETIME HD
+http://54.39.53.45:8880/live/jeane/jeane/8196.ts
+#EXTINF:-1,LIFE TIME HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1543.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://54.39.53.45:8880/live/jeane/jeane/8059.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://54.39.53.45:8880/live/jeane/jeane/8197.ts
+#EXTINF:-1,ID HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1497.ts
+#EXTINF:-1,IURD TV
+http://54.39.53.45:8880/live/jeane/jeane/3137.ts
+#EXTINF:-1,IURD TV Internacional
+http://54.39.53.45:8880/live/jeane/jeane/4656.ts
+#EXTINF:-1,IMPD TV
+http://54.39.53.45:8880/live/jeane/jeane/4655.ts
+#EXTINF:-1,MEGAPIX
+http://54.39.53.45:8880/live/jeane/jeane/8051.ts
+#EXTINF:-1,MEGAPIX HD
+http://54.39.53.45:8880/live/jeane/jeane/8192.ts
+#EXTINF:-1,MEGAPIX HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1521.ts
+#EXTINF:-1,MAX
+http://54.39.53.45:8880/live/jeane/jeane/8055.ts
+#EXTINF:-1,MAX HD
+http://54.39.53.45:8880/live/jeane/jeane/8195.ts
+#EXTINF:-1,MAX HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1524.ts
+#EXTINF:-1,MAX PRIME
+http://54.39.53.45:8880/live/jeane/jeane/8054.ts
+#EXTINF:-1,MAX PRIME HD
+http://54.39.53.45:8880/live/jeane/jeane/8194.ts
+#EXTINF:-1,MAX PRIME HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1523.ts
+#EXTINF:-1,MAX UP
+http://54.39.53.45:8880/live/jeane/jeane/8052.ts
+#EXTINF:-1,MAX UP HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1522.ts
+#EXTINF:-1,MAX UP HD
+http://54.39.53.45:8880/live/jeane/jeane/8193.ts
+#EXTINF:-1,MAX PRIME E
+http://54.39.53.45:8880/live/jeane/jeane/8053.ts
+#EXTINF:-1,MTV
+http://54.39.53.45:8880/live/jeane/jeane/8050.ts
+#EXTINF:-1,MTV HD
+http://54.39.53.45:8880/live/jeane/jeane/8191.ts
+#EXTINF:-1,MULTISHOW
+http://54.39.53.45:8880/live/jeane/jeane/8049.ts
+#EXTINF:-1,MULTISHOW HD
+http://54.39.53.45:8880/live/jeane/jeane/8190.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://54.39.53.45:8880/live/jeane/jeane/8048.ts
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://54.39.53.45:8880/live/jeane/jeane/8047.ts
+#EXTINF:-1,NOVO TEMPO SP.
+http://54.39.53.45:8880/live/jeane/jeane/4663.ts
+#EXTINF:-1,NAT GEO
+http://54.39.53.45:8880/live/jeane/jeane/8046.ts
+#EXTINF:-1,NAT GEO HD
+http://54.39.53.45:8880/live/jeane/jeane/8189.ts
+#EXTINF:-1,NAT GEO KIDS
+http://54.39.53.45:8880/live/jeane/jeane/8188.ts
+#EXTINF:-1,NAT GEO KIDS HD
+http://54.39.53.45:8880/live/jeane/jeane/8045.ts
+#EXTINF:-1,NAT GEO WILD
+http://54.39.53.45:8880/live/jeane/jeane/8044.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://54.39.53.45:8880/live/jeane/jeane/8187.ts
+#EXTINF:-1,NAT GEO WILD HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1496.ts
+#EXTINF:-1,NATIONAL GEO BRASIL HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1495.ts
+#EXTINF:-1,NBR
+http://54.39.53.45:8880/live/jeane/jeane/8043.ts
+#EXTINF:-1,NICKELODEON HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2346.ts
+#EXTINF:-1,NICK JR
+http://54.39.53.45:8880/live/jeane/jeane/8042.ts
+#EXTINF:-1,NICK JR HD
+http://54.39.53.45:8880/live/jeane/jeane/8041.ts
+#EXTINF:-1,NICK JR HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1555.ts
+#EXTINF:-1,NICKELODEON
+http://54.39.53.45:8880/live/jeane/jeane/8040.ts
+#EXTINF:-1,NICKELODEON HD
+http://54.39.53.45:8880/live/jeane/jeane/8039.ts
+#EXTINF:-1,OFF
+http://54.39.53.45:8880/live/jeane/jeane/8038.ts
+#EXTINF:-1,OFF HD
+http://54.39.53.45:8880/live/jeane/jeane/8186.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://54.39.53.45:8880/live/jeane/jeane/8037.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://54.39.53.45:8880/live/jeane/jeane/8185.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2358.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://54.39.53.45:8880/live/jeane/jeane/8027.ts
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://54.39.53.45:8880/live/jeane/jeane/8026.ts
+#EXTINF:-1,PREMIERE CLUBES
+http://54.39.53.45:8880/live/jeane/jeane/8029.ts
+#EXTINF:-1,PREMIERE CLUBES HD
+http://54.39.53.45:8880/live/jeane/jeane/8028.ts
+#EXTINF:-1,PREMIERE CLUBES HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1568.ts
+#EXTINF:-1,PREMIERE 2
+http://54.39.53.45:8880/live/jeane/jeane/8184.ts
+#EXTINF:-1,PREMIERE 2 HD
+http://54.39.53.45:8880/live/jeane/jeane/8036.ts
+#EXTINF:-1,PREMIERE 2 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1488.ts
+#EXTINF:-1,PREMIERE 3
+http://54.39.53.45:8880/live/jeane/jeane/8183.ts
+#EXTINF:-1,PREMIERE 3 HD
+http://54.39.53.45:8880/live/jeane/jeane/8035.ts
+#EXTINF:-1,PREMIERE 3 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1487.ts
+#EXTINF:-1,PREMIERE 4
+http://54.39.53.45:8880/live/jeane/jeane/8182.ts
+#EXTINF:-1,PREMIERE 4 HD
+http://54.39.53.45:8880/live/jeane/jeane/8034.ts
+#EXTINF:-1,PREMIERE 5
+http://54.39.53.45:8880/live/jeane/jeane/8181.ts
+#EXTINF:-1,PREMIERE 5 HD
+http://54.39.53.45:8880/live/jeane/jeane/8033.ts
+#EXTINF:-1,PREMIERE 5 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1486.ts
+#EXTINF:-1,PREMIERE 6
+http://54.39.53.45:8880/live/jeane/jeane/8180.ts
+#EXTINF:-1,PREMIERE 6 HD
+http://54.39.53.45:8880/live/jeane/jeane/8032.ts
+#EXTINF:-1,PREMIERE 6 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1485.ts
+#EXTINF:-1,PREMIERE 7
+http://54.39.53.45:8880/live/jeane/jeane/8031.ts
+#EXTINF:-1,PREMIERE 7 HD
+http://54.39.53.45:8880/live/jeane/jeane/8030.ts
+#EXTINF:-1,PREMIERE 7 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1484.ts
+#EXTINF:-1,PREMIERE 8 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1483.ts
+#EXTINF:-1,TABELA DE JOGOS PREMIERE
+http://54.39.53.45:8880/live/jeane/jeane/7976.ts
+#EXTINF:-1,PORTAL GOSPEL.
+http://54.39.53.45:8880/live/jeane/jeane/4652.ts
+#EXTINF:-1,RECORD
+http://54.39.53.45:8880/live/jeane/jeane/8025.ts
+#EXTINF:-1,RECORD HD
+http://54.39.53.45:8880/live/jeane/jeane/8020.ts
+#EXTINF:-1,RECORD HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/8024.ts
+#EXTINF:-1,RECORD NEWS
+http://54.39.53.45:8880/live/jeane/jeane/8023.ts
+#EXTINF:-1,RECORD NEWS HD
+http://54.39.53.45:8880/live/jeane/jeane/8022.ts
+#EXTINF:-1,RECORD SP
+http://54.39.53.45:8880/live/jeane/jeane/8021.ts
+#EXTINF:-1,REDE BRASIL
+http://54.39.53.45:8880/live/jeane/jeane/8019.ts
+#EXTINF:-1,REDE TV
+http://54.39.53.45:8880/live/jeane/jeane/8018.ts
+#EXTINF:-1,REDE VIDA
+http://54.39.53.45:8880/live/jeane/jeane/8017.ts
+#EXTINF:-1,REDE RECORD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/147.ts
+#EXTINF:-1,REDE TV HD
+http://54.39.53.45:8880/live/jeane/jeane/8179.ts
+#EXTINF:-1,REDE TV HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1533.ts
+#EXTINF:-1,REDE SÉCULO 21
+http://54.39.53.45:8880/live/jeane/jeane/3133.ts
+#EXTINF:-1,REDE SÊCULO 21 HD
+http://54.39.53.45:8880/live/jeane/jeane/4659.ts
+#EXTINF:-1,REDE GOSPEL (2).
+http://54.39.53.45:8880/live/jeane/jeane/4651.ts
+#EXTINF:-1,REDE SUPER
+http://54.39.53.45:8880/live/jeane/jeane/3131.ts
+#EXTINF:-1,REDE SUPER ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/6539.ts
+#EXTINF:-1,SBT
+http://54.39.53.45:8880/live/jeane/jeane/8016.ts
+#EXTINF:-1,SBT HD
+http://54.39.53.45:8880/live/jeane/jeane/8178.ts
+#EXTINF:-1,SBT HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1532.ts
+#EXTINF:-1,SBT SP HD
+http://54.39.53.45:8880/live/jeane/jeane/7862.ts
+#EXTINF:-1,SBT SP INTERIOR
+http://54.39.53.45:8880/live/jeane/jeane/8015.ts
+#EXTINF:-1,SPORTV
+http://54.39.53.45:8880/live/jeane/jeane/8012.ts
+#EXTINF:-1,SPORTV HD
+http://54.39.53.45:8880/live/jeane/jeane/8173.ts
+#EXTINF:-1,SPORTV HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1567.ts
+#EXTINF:-1,SPORTV FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4470.ts
+#EXTINF:-1,SPORTV 2
+http://54.39.53.45:8880/live/jeane/jeane/8011.ts
+#EXTINF:-1,SPORTV 2 HD
+http://54.39.53.45:8880/live/jeane/jeane/8175.ts
+#EXTINF:-1,SPORTV 2 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2342.ts
+#EXTINF:-1,SPORTV 2 FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4469.ts
+#EXTINF:-1,SPORTV 3
+http://54.39.53.45:8880/live/jeane/jeane/8010.ts
+#EXTINF:-1,SPORTV 3 HD
+http://54.39.53.45:8880/live/jeane/jeane/8174.ts
+#EXTINF:-1,SPORTV 3 HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2343.ts
+#EXTINF:-1,SPORTV 3 FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4468.ts
+#EXTINF:-1,SYFY
+http://54.39.53.45:8880/live/jeane/jeane/8014.ts
+#EXTINF:-1,SYFY HD
+http://54.39.53.45:8880/live/jeane/jeane/8177.ts
+#EXTINF:-1,SYFY HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1516.ts
+#EXTINF:-1,SUNDANCETV
+http://54.39.53.45:8880/live/jeane/jeane/8008.ts
+#EXTINF:-1,SUNDANCETV HD
+http://54.39.53.45:8880/live/jeane/jeane/8007.ts
+#EXTINF:-1,SPACE
+http://54.39.53.45:8880/live/jeane/jeane/8013.ts
+#EXTINF:-1,SPACE HD
+http://54.39.53.45:8880/live/jeane/jeane/8176.ts
+#EXTINF:-1,SPACE HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1518.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://54.39.53.45:8880/live/jeane/jeane/8009.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://54.39.53.45:8880/live/jeane/jeane/8172.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1517.ts
+#EXTINF:-1,TBS
+http://54.39.53.45:8880/live/jeane/jeane/8006.ts
+#EXTINF:-1,TBS HD
+http://54.39.53.45:8880/live/jeane/jeane/8005.ts
+#EXTINF:-1,TCM
+http://54.39.53.45:8880/live/jeane/jeane/8004.ts
+#EXTINF:-1,TCM HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1514.ts
+#EXTINF:-1,TELECINE ACTION
+http://54.39.53.45:8880/live/jeane/jeane/8003.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://54.39.53.45:8880/live/jeane/jeane/8171.ts
+#EXTINF:-1,TELECINE ACTION HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2777.ts
+#EXTINF:-1,TELECINE ACTION FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4483.ts
+#EXTINF:-1,TELECINE CULT
+http://54.39.53.45:8880/live/jeane/jeane/8002.ts
+#EXTINF:-1,TELECINE CULT HD
+http://54.39.53.45:8880/live/jeane/jeane/8170.ts
+#EXTINF:-1,TELECINE CULT HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1512.ts
+#EXTINF:-1,TELECINE FUN
+http://54.39.53.45:8880/live/jeane/jeane/8001.ts
+#EXTINF:-1,TELECINE FUN HD
+http://54.39.53.45:8880/live/jeane/jeane/8169.ts
+#EXTINF:-1,TELECINE FUN HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2778.ts
+#EXTINF:-1,TELECINE FUN FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4482.ts
+#EXTINF:-1,TELECINE PIPOCA
+http://54.39.53.45:8880/live/jeane/jeane/8000.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://54.39.53.45:8880/live/jeane/jeane/8168.ts
+#EXTINF:-1,TELECINE PIPOCA HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2780.ts
+#EXTINF:-1,TELECINE PIPOCA FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4480.ts
+#EXTINF:-1,TELECINE PREMIUM
+http://54.39.53.45:8880/live/jeane/jeane/7999.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://54.39.53.45:8880/live/jeane/jeane/8167.ts
+#EXTINF:-1,TELECINE PREMIUM HD H265 ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/2779.ts
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4484.ts
+#EXTINF:-1,TELECINE TOUCH
+http://54.39.53.45:8880/live/jeane/jeane/7998.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://54.39.53.45:8880/live/jeane/jeane/8166.ts
+#EXTINF:-1,TELECINE TOUCH HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1509.ts
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://54.39.53.45:8880/live/jeane/jeane/4479.ts
+#EXTINF:-1,TERRA VIVA
+http://54.39.53.45:8880/live/jeane/jeane/7997.ts
+#EXTINF:-1,TLC
+http://54.39.53.45:8880/live/jeane/jeane/7996.ts
+#EXTINF:-1,TLC HD
+http://54.39.53.45:8880/live/jeane/jeane/8165.ts
+#EXTINF:-1,TNT
+http://54.39.53.45:8880/live/jeane/jeane/7995.ts
+#EXTINF:-1,TNT HD
+http://54.39.53.45:8880/live/jeane/jeane/8164.ts
+#EXTINF:-1,TNT HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1508.ts
+#EXTINF:-1,TNT SERIES
+http://54.39.53.45:8880/live/jeane/jeane/7994.ts
+#EXTINF:-1,TNT SERIES HD
+http://54.39.53.45:8880/live/jeane/jeane/8163.ts
+#EXTINF:-1,TNT SERIES HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1507.ts
+#EXTINF:-1,TOONCAST
+http://54.39.53.45:8880/live/jeane/jeane/7993.ts
+#EXTINF:-1,TOONCAST HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1554.ts
+#EXTINF:-1,TRUTV
+http://54.39.53.45:8880/live/jeane/jeane/7984.ts
+#EXTINF:-1,TRUTV HD
+http://54.39.53.45:8880/live/jeane/jeane/7983.ts
+#EXTINF:-1,TRU TV HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1539.ts
+#EXTINF:-1,TV BRASIL
+http://54.39.53.45:8880/live/jeane/jeane/7990.ts
+#EXTINF:-1,TV CÂMARA
+http://54.39.53.45:8880/live/jeane/jeane/7989.ts
+#EXTINF:-1,TV ESCOLA
+http://54.39.53.45:8880/live/jeane/jeane/7988.ts
+#EXTINF:-1,TV GAZETA SP HD
+http://54.39.53.45:8880/live/jeane/jeane/7987.ts
+#EXTINF:-1,TV JUSTICA
+http://54.39.53.45:8880/live/jeane/jeane/7991.ts
+#EXTINF:-1,TV RA TIM BUM
+http://54.39.53.45:8880/live/jeane/jeane/7986.ts
+#EXTINF:-1,TV RA TIM BUM HD
+http://54.39.53.45:8880/live/jeane/jeane/7985.ts
+#EXTINF:-1,TV SENADO
+http://54.39.53.45:8880/live/jeane/jeane/7992.ts
+#EXTINF:-1,TV APARECIDA
+http://54.39.53.45:8880/live/jeane/jeane/8162.ts
+#EXTINF:-1,TBS HD ALTERNATIVO
+http://54.39.53.45:8880/live/jeane/jeane/1515.ts
+#EXTINF:-1,TV EVANGELIZAR
+http://54.39.53.45:8880/live/jeane/jeane/4665.ts
+#EXTINF:-1,TV FELIZ
+http://54.39.53.45:8880/live/jeane/jeane/4666.ts
+#EXTINF:-1,TV VERDADE.
+http://54.39.53.45:8880/live/jeane/jeane/4654.ts
+#EXTINF:-1,TV APARECIDA.
+http://54.39.53.45:8880/live/jeane/jeane/4664.ts
+#EXTINF:-1,TV TERCEIRO ANJO
+http://54.39.53.45:8880/live/jeane/jeane/3138.ts
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://54.39.53.45:8880/live/jeane/jeane/7982.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://54.39.53.45:8880/live/jeane/jeane/8161.ts
+#EXTINF:-1,VEM & V.
+http://54.39.53.45:8880/live/jeane/jeane/4653.ts
+#EXTINF:-1,VH1
+http://54.39.53.45:8880/live/jeane/jeane/7981.ts
+#EXTINF:-1,VH1 HD
+http://54.39.53.45:8880/live/jeane/jeane/8160.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://54.39.53.45:8880/live/jeane/jeane/7980.ts
